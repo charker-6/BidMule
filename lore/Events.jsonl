@@ -1,0 +1,117 @@
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T20:59:59"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=weiner hover.pdf"], "schema": "1.0", "ts": "2025-10-14T21:00:03"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T21:00:03"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T21:00:03"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T21:00:03"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T21:00:13"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T21:49:24"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=https:hover.to:api:v1:models:16825349:pro_premium_measurements.pdf"], "schema": "1.0", "ts": "2025-10-14T21:49:29"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T21:49:29"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T21:49:29"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T21:49:29"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T21:54:51"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T21:55:51"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T21:55:58"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T22:09:30"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T22:09:37"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T22:48:55"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=weiner hover.pdf"], "schema": "1.0", "ts": "2025-10-14T22:49:00"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T22:49:00"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T22:49:00"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T22:49:00"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T22:50:04"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T22:50:58"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=weiner hover.pdf"], "schema": "1.0", "ts": "2025-10-14T22:51:02"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T22:51:02"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T22:51:02"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T22:51:02"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T23:02:28"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T23:05:08"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-14T23:05:11"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T23:05:11"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T23:05:11"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T23:05:11"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T23:05:28"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T23:21:42"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T23:21:48"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T23:25:27"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T23:25:34"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T23:25:50"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-14T23:26:06"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-14T23:26:06"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-14T23:26:06"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-14T23:26:06"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-14T23:26:13"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-14T23:32:50"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-15T00:05:19"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-15T00:05:19"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-15T00:05:19"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-15T00:05:19"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T00:59:03"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T01:47:37"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T01:47:52"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T02:02:31"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T07:03:17"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T07:03:18"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T07:03:37"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T07:03:38"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T07:03:40"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T19:51:56"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T19:52:13"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T20:59:38"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T21:00:27"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T21:00:32"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T21:00:40"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T21:09:13"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T21:09:20"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T21:14:26"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T21:15:29"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-15T21:18:22"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-15T21:18:22"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-15T21:18:22"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-15T21:18:22"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T21:25:08"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:10:15"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T22:19:53"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:19:53"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:21:50"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T22:35:30"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:36:10"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:41:48"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:43:51"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T22:53:32"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T22:53:33"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T22:53:48"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:01:37"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:19:21"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:19:21"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:19:26"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:19:40"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:21:18"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:42:02"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-15T23:42:08"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-15T23:42:08"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-15T23:42:08"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-15T23:42:08"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:50:04"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:50:04"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:58:12"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-15T23:58:12"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-15T23:58:19"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-15T23:58:19"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-15T23:58:19"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-15T23:58:19"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-15T23:58:56"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:01:13"}
+{"type": "parse", "event": "hover_parse_begin", "data": ["file=robinson hover.pdf"], "schema": "1.0", "ts": "2025-10-16T00:01:20"}
+{"type": "parse", "event": "hover_parse_success", "data": [], "schema": "1.0", "ts": "2025-10-16T00:01:20"}
+{"type": "compute", "event": "estimate_begin", "data": [], "schema": "1.0", "ts": "2025-10-16T00:01:20"}
+{"type": "compute", "event": "estimate_success", "data": ["sq=n/a"], "schema": "1.0", "ts": "2025-10-16T00:01:20"}
+{"type": "app", "event": "app_closing", "data": [], "schema": "1.0", "ts": "2025-10-16T00:11:05"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:31:10"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:33:58"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:34:51"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:38:05"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:41:32"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T00:54:43"}
+{"type": "app", "event": "app_started", "data": ["ui initialized", "session=disabled"], "schema": "1.0", "ts": "2025-10-16T01:25:32"}

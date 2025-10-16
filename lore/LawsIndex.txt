@@ -1,0 +1,29 @@
+===============================================================================
+BIDMULE LAWS INDEX - Path of Law
+===============================================================================
+Maintained by: Grand Vizier
+All amendments logged chronologically; no deletions, only addenda.
+===============================================================================
+
+BM-W-001  Siding Waste Rule     - 20% base, +3% medium, +7% high.
+BM-F-012  Fascia Length Rule    - 12 ft standard board length.
+BM-A-001  Anchor Law            - All code must include anchors and indentation.
+BM-D-001  Determinism Doctrine  - Identical inputs must yield identical outputs.
+BM-L-001  Dual Path Mandate     - Law and Lore operate in harmony.
+bm-w-001 siding waste rule - 20% base, +3% medium, +7% high.
+bm-w-002 roofing waste rule - 10% default unless roof-specific data dictates otherwise.
+bm-w-003 gutters waste rule - 10% default for aluminum continuous systems.
+bm-f-012 fascia length rule - 12 ft standard board length.
+bm-a-001 anchor law - all code must include anchors and indentation.
+bm-d-001 determinism doctrine - identical inputs must yield identical outputs.
+bm-l-001 dual path mandate - law and lore operate in harmony.
+bm-gm-035 gross margin targets - siding 35%, roofing 35%, gutters 30%.
+bm-v-150 ventilation baseline - attic net free vent area to meet 1/150 unless code/assembly dictates exception.
+BM-C-001 Concordant Engine is local-only; structured echo + offline analysis; no AI plug-ins; no cloud telemetry.
+BM-P-001 Privacy Redaction mode hashes addresses/paths; no raw PII in ledgers or events.
+BM-R-001 Rotation policy: Events.jsonl rotates at 20 MB; human ledgers at 2 MB; archives are append-only.
+BM-B-001 Boring News Mandate: every run records start/end + parse begin/success + estimate begin/success.
+BM-A-010 Anchor Header Law: every def line carries [NNN|category|label] Title – purpose.
+BM-B-001 Boring News Mandate: start/end + parse begin/success + estimate begin/success each run.
+BM-C-001 Concordant Engine is local-only; no AI plug-ins or cloud telemetry.
+BM-R-001 Rotation policy: Events.jsonl 20MB; human ledgers 2MB; archive-only.

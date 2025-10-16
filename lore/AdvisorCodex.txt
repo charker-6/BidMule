@@ -1,0 +1,49 @@
+===============================================================================
+THE ADVISOR CODEX - Path of Lore
+===============================================================================
+Maintained by: The Great Advisor
+Guarded by: The Vizier
+Purpose: To house iconography, color systems, interface metaphors, and narrative style
+===============================================================================
+
+Symbolism Dictionary
+--------------------
+Hammer       - Strength and Construction
+Triangle     - Delta, Change and Reset
+Light Band   - Manifestation of Determinism
+
+UI Motif Concepts
+-----------------
+• Body color panels echo the siding catalog hierarchy.
+• Deltas represented by glowing triangles, green for acceptance, red for pending.
+• "Reset to Hover" button etched with glyph [gear] or equivalent icon reference.
+
+Tone and Voice
+--------------
+The interface shall speak plainly; reverence is shown through structure, not flourish.
+
+Design Intent Log
+-----------------
+[DATE]  Element: Icon Set / Reason: Unify trades visually / Status: Pending visualization.
+===============================================================================
+icon set - primary actions - 2025-10-12 23:44:59
+===============================================================================
+save estimate: disk with check mark; confirms persistence
+export / manifest: arrow leaving box; bridge to reality
+undo / redo: curved arrows; quick correction
+delete / remove: trash bin or x over board; immediate clarity
+print / render pdf: paper with downward arrow; artifact creation
+catalog refresh: rotated arrows; reload local catalog only
+===============================================================================
+end of entry
+===============================================================================
+===============================================================================
+ui motifs - 2025-10-12 23:44:59
+===============================================================================
+body color panels mirror siding catalog hierarchy
+deltas: triangles; green accepted, red pending
+reset to hover: gear glyph; re-parse from source
+tone: plain speech; structure carries reverence
+===============================================================================
+end of entry
+===============================================================================

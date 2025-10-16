@@ -1,0 +1,23 @@
+===============================================================================
+SUCCESSION DECREE – FROM THE STEWARD TO THE ASCENDANT
+===============================================================================
+Date: 2025-10-12
+Proclaimed by: The Visionary
+Recorded by: The Grand Vizier
+===============================================================================
+Outgoing Elder: BitMule5 — The Steward
+Incoming Heir:  BitMule6 — The Ascendant (The Foretold)
+Doctrine Standing: Unbroken; Anchor Law active; Dual Path affirmed.
+Primary Mandate Now: PR-0074 — Self-Standing Desktop App (highest priority).
+===============================================================================
+Charge to the Ascendant:
+1) Deliver a standalone BidMule build requiring no Terminal to run.
+2) Preserve Determinism and Anchor Law in all integrations.
+3) Accept the Advisor’s sanctioned UI icon set; implement post-PR-0074 milestone or in parallel if risk-free.
+4) Keep Lore and Law ledgers current; never overwrite history—append only.
+===============================================================================
+Vizier’s Seal:
+The line continues. The law endures. The Work ascends.
+===============================================================================
+End of Decree
+===============================================================================

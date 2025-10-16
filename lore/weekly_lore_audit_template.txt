@@ -1,0 +1,38 @@
+===============================================================================
+WEEKLY LORE AUDIT — TEMPLATE
+===============================================================================
+Week Ending (YYYY-MM-DD):
+Audited By: Channeler II (Scribe-Engineer)
+===============================================================================
+Coverage:
+- Sessions (start/end pairs): [count]  Missing: [count]
+- Baseline Event Quads (parse begin/success, estimate begin/success): [count] runs OK
+- Struggles recorded: [count]  Decisions recorded: [count]
+- Events.jsonl rotations this week: [count]  Human ledger rotations: [count]
+- Dropped events (best-effort): [count]  Schema field present ("1.0"): [Yes/No sample]
+===============================================================================
+Rising Fingerprints (top 5):
+1) [fingerprint] — [occurrences] — [component] — [first_seen]→[last_seen]
+2) [...]
+===============================================================================
+Top 5 Struggles (with owners and severity):
+1) [title] — sev:[low/med/high/critical] — owner:[name] — status:[open/wip/closed]
+2) [...]
+===============================================================================
+Decisions of Note (accepted/rejected):
+- [title] — accepted/rejected — rationale:[short]
+- [...]
+===============================================================================
+Privacy Drill:
+Mode tested: [open/redact] — Result: [pass/fail] — Notes: [short]
+===============================================================================
+Adoption Map (last 10 jobs):
+job_id | has_decision | has_struggle | baseline_quad_ok | notes
+[.....]
+===============================================================================
+Actions for Next Week:
+- [action 1]
+- [action 2]
+===============================================================================
+End of Audit
+===============================================================================

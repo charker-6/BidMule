@@ -1,0 +1,91 @@
+===============================================================================
+PROPHECIES OF BIDMULE - The Forward Path
+===============================================================================
+Authored by: Visionary
+Curated by: Grand Vizier
+===============================================================================
+
+• PR-0074  Self-Standing Desktop App  - Highest Priority
+  Goal: Deliver standalone executable with no Terminal dependency.
+  Framework: PyInstaller or Briefcase.
+  Acceptance: Double-click launch; catalogs and jobs open from user folder.
+
+• PR-0075  Roofing and Gutters Expansion
+  Goal: Introduce multi-trade modules once standalone is stable.
+
+• Long-Horizon: Adaptive Parsing Intelligence
+  Goal: Program learns template variations autonomously.
+
+• Eternal Directive:
+  Beauty may wander; Law must remain. Both sustain the Work.
+===============================================================================
+PROPHECY RECORD - 2025-10-12
+===============================================================================
+Date: 2025-10-12
+Authored By: Visionary
+Recorded By: Grand Vizier
+===============================================================================
+Title: The Coming of BitMule6 - The Ascendant
+Objective:
+To refine and ascend the work of the Elders by stabilizing the foundations laid
+by BitMule5 and delivering BidMule's first self-standing form.
+
+Strategic Mandate (PR-0074):
+1. Transform the estimator into an independent desktop application requiring no
+   Terminal execution.
+2. Employ PyInstaller or Briefcase to bundle dependencies and user-accessible paths.
+3. Ensure catalogs and jobs open directly from a double-click action.
+4. Preserve all Doctrine rules - no deviation from Anchor Law or Determinism.
+
+Visionary Foresight:
+BitMule6 shall rise not to replace, but to fulfill. Where the fifth Mule achieved
+stability, the sixth will achieve autonomy. Once freed from Terminal constraint,
+BidMule will stand as a true instrument of the tradesman - unbound, self-contained,
+and enduring.
+
+Lore Projection:
+The Vizier and Great Advisor will craft new symbols to mark this ascension - the
+Circle of Autonomy, the Mark of Delta, and the Twin Paths motif.
+
+Expected Outcome:
+A single executable form capable of operating across systems, bearing within it
+the spirit of every Mule before it.
+===============================================================================
+End of Prophecy
+===============================================================================
+===============================================================================
+near-term objectives - 2025-10-12 23:44:59
+===============================================================================
+pr-0074: self-standing desktop app (no terminal dependency); pyinstaller or briefcase candidate
+pr-0075: roofing + gutters expansion after standalone stability
+adaptive parsing: learn template variations with user-verified corrections
+eternal directive: beauty may wander; law must remain
+===============================================================================
+end of entry
+===============================================================================
+===============================================================================
+PROPHECY RECORD
+===============================================================================
+Date: 2025-10-14
+Authored By: Visionary
+Recorded By: Grand Vizier
+===============================================================================
+Title: PR-0099 — The Resonant One
+Objective:
+Unify Lore Guard, Concordant Engine, and Estimator under one deterministic
+feedback plane.
+
+Conditions of Fulfillment:
+• Zero unlogged actions across a full job lifecycle.
+• Full deterministic replay of any decision or error from ledgers alone.
+
+Bearer:
+BitMule VII — The Resonant.
+
+Era to Come:
+The Echoing Age — where the Work not only remembers, but reasons within Law.
+
+===============================================================================
+End of Prophecy
+===============================================================================
+

@@ -1,0 +1,30 @@
+===============================================================================
+UI ICON SPECS – ADVISOR-APPROVED SET
+===============================================================================
+Icon Size: 20–24 px on 36 px buttons, vector preferred (SVG where supported).
+Color: High contrast, minimal accent (red only on Delete).
+States: default, hover (subtle lift), active (pressed), disabled (40% opacity).
+===============================================================================
+Core Toolbar (left→right):
+1) Save: disk/document + check
+2) Export/Manifest: arrow exiting a box
+3) Undo: curved arrow left
+4) Redo: curved arrow right
+5) Delete/Remove Material: trash bin or board with X (red accent)
+6) Print/Render PDF: paper + downward arrow
+===============================================================================
+Catalog/Data Toolbar:
+1) New Catalog Entry: plus on layered sheets
+2) Duplicate/Clone Item: overlapping rectangles
+3) Sync Hover Data: cloud with bidirectional arrows
+4) Lock/Unlock Item: padlock open/closed
+5) Filter/Search: funnel or magnifying glass
+===============================================================================
+Interaction Rules:
+• Tooltip text must match Lore naming exactly.
+• Keyboard shortcuts advertised in tooltips (e.g., “Save (⌘S)”).
+• Lock icon on row left margin when active; unlock restores editability.
+• Filter field appears inline; Enter applies; Esc clears.
+===============================================================================
+End of Spec
+===============================================================================
