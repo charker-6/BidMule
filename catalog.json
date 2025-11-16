@@ -1,4 +1,5 @@
 {
+  "$schema": "https://regis.local/schemas/catalog-1.json",
   "version": "2025-10-11",
   "regions": [
     "Metro",
@@ -22,8 +23,238 @@
     "bonus_split_office": 0.6667
   },
   "items": {
+    "trim_44_2_5_rustic": {
+      "uom": "PC",
+      "display": "4/4 x 2.5 Rustic",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 2.5,
+        "surface": "Rustic",
+        "length_ft": 12,
+        "sku_hint": "25H5BR22 / 25H5BR22AW"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 13.19,
+          "North CO": 13.19,
+          "Mountains": 13.19
+        },
+        "ColorPlus": {
+          "Metro": 12.18,
+          "North CO": 12.18,
+          "Mountains": 12.18
+        },
+        "Dream": {
+          "Metro": 23.39,
+          "North CO": 23.39,
+          "Mountains": 23.39
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_5_5_rustic": {
+      "uom": "PC",
+      "display": "4/4 x 5.5 Rustic",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 5.5,
+        "surface": "Rustic",
+        "length_ft": 12,
+        "sku_hint": "25H54R25"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 28.89,
+          "North CO": 28.89,
+          "Mountains": 28.89
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_7_25_rustic": {
+      "uom": "PC",
+      "display": "4/4 x 7.25 Rustic",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 7.25,
+        "surface": "Rustic",
+        "length_ft": 12,
+        "sku_hint": "25H54R27 / 25H54R27AW"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 37.89,
+          "North CO": 37.89,
+          "Mountains": 37.89
+        },
+        "ColorPlus": {
+          "Metro": 39.1,
+          "North CO": 39.1,
+          "Mountains": 39.1
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_9_25_rustic": {
+      "uom": "PC",
+      "display": "4/4 x 9.25 Rustic",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 9.25,
+        "surface": "Rustic",
+        "length_ft": 12,
+        "sku_hint": "25H54R29"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 38.29,
+          "North CO": 38.29,
+          "Mountains": 38.29
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_11_25_rustic": {
+      "uom": "PC",
+      "display": "4/4 x 11.25 Rustic",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 11.25,
+        "surface": "Rustic",
+        "length_ft": 12,
+        "sku_hint": "25H54R21"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 58.79,
+          "North CO": 58.79,
+          "Mountains": 58.79
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_2_5_sm": {
+      "uom": "PC",
+      "display": "4/4 x 2.5 SM",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 2.5,
+        "surface": "SM",
+        "length_ft": 12,
+        "sku_hint": "25H5BS22 / 25JH12VTSOFSMDRM"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 14.09,
+          "North CO": 14.09,
+          "Mountains": 14.09
+        },
+        "Dream": {
+          "Metro": 53.99,
+          "North CO": 53.99,
+          "Mountains": 53.99
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_5_5_sm": {
+      "uom": "PC",
+      "display": "4/4 x 5.5 SM",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 5.5,
+        "surface": "SM",
+        "length_ft": 12,
+        "sku_hint": "25H54S25"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 31.29,
+          "North CO": 31.29,
+          "Mountains": 31.29
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_7_25_sm": {
+      "uom": "PC",
+      "display": "4/4 x 7.25 SM",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 7.25,
+        "surface": "SM",
+        "length_ft": 12,
+        "sku_hint": "25H54S27"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 39.19,
+          "North CO": 39.19,
+          "Mountains": 39.19
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_9_25_sm": {
+      "uom": "PC",
+      "display": "4/4 x 9.25 SM",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 9.25,
+        "surface": "SM",
+        "length_ft": 12,
+        "sku_hint": "25H54S29"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 48.72,
+          "North CO": 48.72,
+          "Mountains": 48.72
+        }
+      },
+      "uom_norm": "PC"
+    },
+    "trim_44_11_25_sm": {
+      "uom": "PC",
+      "display": "4/4 x 11.25 SM",
+      "meta": {
+        "category": "trim",
+        "brand": "Hardie",
+        "thickness_quarter": 4,
+        "width_in": 11.25,
+        "surface": "SM",
+        "length_ft": 12,
+        "sku_hint": "25H54S21"
+      },
+      "cost": {
+        "Primed": {
+          "Metro": 63.19,
+          "North CO": 63.19,
+          "Mountains": 63.19
+        }
+      },
+      "uom_norm": "PC"
+    },
     "siding_sf": {
-      "uom": "sf",
+      "uom": "EA",
       "cost": {
         "Primed": {
           "Metro": 1.97,
@@ -35,34 +266,39 @@
           "North CO": 2.3,
           "Mountains": 2.3
         }
-      }
+      },
+      "uom_norm": "EA"
     },
     "wrap_roll": {
-      "uom": "roll",
+      "uom": "RL",
       "cost": {
         "Metro": 300.0,
         "North CO": 311.99,
         "Mountains": 311.99
-      }
+      },
+      "uom_norm": "RL",
+      "display": "JH Vapor Barrier"
     },
     "tape_roll": {
-      "uom": "roll",
+      "uom": "RL",
       "cost": {
         "Metro": 26.99,
         "North CO": 26.99,
         "Mountains": 26.99
-      }
+      },
+      "uom_norm": "RL"
     },
     "nail_box": {
-      "uom": "box",
+      "uom": "BX",
       "cost": {
         "Metro": 56.99,
         "North CO": 56.99,
         "Mountains": 56.99
-      }
+      },
+      "uom_norm": "BX"
     },
     "coil_roll": {
-      "uom": "roll",
+      "uom": "RL",
       "cost": {
         "Primed": {
           "Metro": 132.99,
@@ -74,10 +310,12 @@
           "North CO": 132.99,
           "Mountains": 132.99
         }
-      }
+      },
+      "uom_norm": "RL",
+      "display": "Trim Coil"
     },
     "trim4_12ft": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Primed": {
           "Metro": 16.93,
@@ -89,10 +327,11 @@
           "North CO": 19.15,
           "Mountains": 19.15
         }
-      }
+      },
+      "uom_norm": "PC"
     },
     "trim6_12ft": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Primed": {
           "Metro": 27.38,
@@ -104,10 +343,11 @@
           "North CO": 30.45,
           "Mountains": 30.45
         }
-      }
+      },
+      "uom_norm": "PC"
     },
     "trim8_12ft": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Primed": {
           "Metro": 36.11,
@@ -119,10 +359,11 @@
           "North CO": 39.17,
           "Mountains": 39.17
         }
-      }
+      },
+      "uom_norm": "PC"
     },
     "trim12_12ft": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Primed": {
           "Metro": 56.03,
@@ -134,10 +375,11 @@
           "North CO": 64.37,
           "Mountains": 64.37
         }
-      }
+      },
+      "uom_norm": "PC"
     },
     "fascia_12ft": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "w4": {
           "Metro": 16.93,
@@ -159,10 +401,11 @@
           "North CO": 56.03,
           "Mountains": 56.03
         }
-      }
+      },
+      "uom_norm": "PC"
     },
     "soffit_panel_4x10": {
-      "uom": "panel",
+      "uom": "EA",
       "cost": {
         "Primed": {
           "Metro": 66.99,
@@ -174,191 +417,215 @@
           "North CO": 85.77,
           "Mountains": 85.77
         }
-      }
+      },
+      "uom_norm": "EA"
     },
     "osb_sheet": {
-      "uom": "sheet",
+      "uom": "EA",
       "cost": {
         "Metro": 18.5,
         "North CO": 18.5,
         "Mountains": 18.5
-      }
+      },
+      "uom_norm": "EA"
     },
     "touchup_kit": {
-      "uom": "kit",
+      "uom": "KT",
       "cost": {
         "Metro": 43.72,
         "North CO": 43.72,
         "Mountains": 43.72
-      }
+      },
+      "uom_norm": "KT"
     },
     "plank_8_25_cm_colorplus": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 16.09,
         "North CO": 16.09,
         "Mountains": 16.09
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_5_25_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 9.69,
         "North CO": 9.69,
         "Mountains": 9.69
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_6_25_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 11.59,
         "North CO": 11.59,
         "Mountains": 11.59
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_7_25_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 13.49,
         "North CO": 13.49,
         "Mountains": 13.49
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_8_25_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 13.82,
         "North CO": 13.82,
         "Mountains": 13.82
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_9_25_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 16.99,
         "North CO": 16.99,
         "Mountains": 16.99
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_12_cm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 21.89,
         "North CO": 21.89,
         "Mountains": 21.89
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_5_25_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 10.39,
         "North CO": 10.39,
         "Mountains": 10.39
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_6_25_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 12.39,
         "North CO": 12.39,
         "Mountains": 12.39
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_7_25_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 14.39,
         "North CO": 14.39,
         "Mountains": 14.39
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_8_25_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 16.19,
         "North CO": 16.19,
         "Mountains": 16.19
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_9_25_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 18.19,
         "North CO": 18.19,
         "Mountains": 18.19
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_12_sm_primed": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 23.69,
         "North CO": 23.69,
         "Mountains": 23.69
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_5_25_cm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 19.59,
         "North CO": 19.59,
         "Mountains": 19.59
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_5_25_sm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 21.09,
         "North CO": 21.09,
         "Mountains": 21.09
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_6_25_cm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 23.39,
         "North CO": 23.39,
         "Mountains": 23.39
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_6_25_sm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 25.09,
         "North CO": 25.09,
         "Mountains": 25.09
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_7_25_cm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 26.99,
         "North CO": 26.99,
         "Mountains": 26.99
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_7_25_sm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 29.09,
         "North CO": 29.09,
         "Mountains": 29.09
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_8_25_cm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 32.89,
         "North CO": 32.89,
         "Mountains": 32.89
-      }
+      },
+      "uom_norm": "PC"
     },
     "plank_8_25_sm_dream": {
-      "uom": "piece",
+      "uom": "PC",
       "cost": {
         "Metro": 33.09,
         "North CO": 33.09,
         "Mountains": 33.09
-      }
+      },
+      "uom_norm": "PC"
     }
   },
   "assemblies": {
